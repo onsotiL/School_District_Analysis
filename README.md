@@ -20,6 +20,7 @@ As a result of taking out Thomas High School math and reading scores, the distri
 - The Average Reading Scores did not change.
 
 ### Original Analysis
+![image](https://user-images.githubusercontent.com/90416094/140558601-bae79957-0eb1-4238-81ac-76bfeada3835.png)
 
 
 
