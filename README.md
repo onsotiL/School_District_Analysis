@@ -51,6 +51,7 @@ When the ninth graders scores for Thomas High School were replaced, it resulted 
 
 
 Math and reading scores by grade
+![image](https://user-images.githubusercontent.com/90416094/140576459-85cd612b-7d7f-4f03-ba1b-4aeeddedd24b.png)
 
 
 
