@@ -57,6 +57,7 @@ With Thomas High School's math scores removed from the 9th grade, all other scor
 
 Scores by school spending
 With the removal of the 9th grade scores, the overall passing percentage decreased from 62.9% to 56.4%.
+![image](https://user-images.githubusercontent.com/90416094/140559997-18c1f861-e63d-47f3-93d3-e709957f23b1.png)
 
 
 Scores by school size
