@@ -25,15 +25,12 @@ As a result of taking out Thomas High School math and reading scores, the distri
 
 
 ### Analysis after removing Thomas High school
-
-School summary 
-The summaries below show the before and after the Thomas High School scores alteration
+![image](https://user-images.githubusercontent.com/90416094/140558700-481fe943-8d4a-43c9-9f35-2870041be4e1.png)
 
 
 
-
-
-top 5 schools
+## School Summary 
+Despite taking out the reading and math scores of thomas High School, it still remains top five school in the school district top 5 schools
 
 
 Replacing the ninth graders' math and reading scores with non-values affected Thomas High School and the school district in the following ways:
