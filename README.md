@@ -77,8 +77,9 @@ Scores by school type
 ![image](https://user-images.githubusercontent.com/90416094/140560124-fac20b53-3f89-4d0a-9890-95f2a4abe06c.png)
 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- The removal of Thomas High ninth grade data in math and reading did not have a major overall impact on the school district’s performance.
+## Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- The removal of Thomas High ninth grade data in math and reading did not have a major overall impact on the school district’s performance. The overall percentage of students who passed math and  dropped by one-tenth of a percentage.
 - When reviewing the School Size summary, removing the ninth grade scores did not aff
 
 
