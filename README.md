@@ -30,7 +30,7 @@ As a result of taking out Thomas High School math and reading scores, the distri
 
 
 ## School Summary 
--Despite taking out the reading and math scores of thomas High School, it still remains top five school in the school district top 5 schools
+- Despite taking out the reading and math scores of thomas High School, it still remains top five school in the school district top 5 schools
 
 ![image](https://user-images.githubusercontent.com/90416094/140559424-4df09517-31bf-4627-8dee-8b1e95c68185.png)
 
@@ -61,18 +61,20 @@ With the removal of the 9th grade scores, the overall passing percentage decreas
 
 
 Scores by school size
+Based on the school size, since thomas High School is a medium sizesd school with 1635 students there was no difference on the average math and reading scores. However, there was almost a  6% drop in the percentage for the math, reading and overall as compared to the previous dataframe for medium of 1000 to 2000 students
+
+
+
 
 
 
 Scores by school type
+![image](https://user-images.githubusercontent.com/90416094/140560124-fac20b53-3f89-4d0a-9890-95f2a4abe06c.png)
 
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
-
-The removal of Thomas High ninth grade data in math and reading did not have a major overall  impact on the school district’s performance.
-
+- The removal of Thomas High ninth grade data in math and reading did not have a major overall impact on the school district’s performance.
+- When reviewing the School Size summary, removing the ninth grade scores did not aff
 
 
 
