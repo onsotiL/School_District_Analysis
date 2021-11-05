@@ -30,27 +30,29 @@ As a result of taking out Thomas High School math and reading scores, the distri
 
 
 ## School Summary 
-Despite taking out the reading and math scores of thomas High School, it still remains top five school in the school district top 5 schools
+-Despite taking out the reading and math scores of thomas High School, it still remains top five school in the school district top 5 schools
 
+![image](https://user-images.githubusercontent.com/90416094/140559424-4df09517-31bf-4627-8dee-8b1e95c68185.png)
 
 Replacing the ninth graders' math and reading scores with non-values affected Thomas High School and the school district in the following ways:
 
-The overall passing percentage for Thomas High School fell to 65%
-The overall passing percentage for the entire district fell to 64.9%
-Percent Passing Math moved decreased from 75% to 74%.
+- The overall passing percentage for Thomas High School fell to 65%
+- The overall passing percentage for the entire district fell to 64.9%
+- Percent Passing Math moved decreased from 75% to 74%.
 
 
-When the ninth graders scores for Thomas High School were replaces, it resulted in the following:
+When the ninth graders scores for Thomas High School were replaced, it resulted in the following:
 
--Overall passing percentages for Thomas High School decreased by 0.11%
--The average scores of Thomas High School for math and reading increased by 0.06
--The overall passing percentage decreased by 0.1% for the spending per students in the range of $630-644 
--Thomas high school remains in the top five of all Charter Schools. 
+- Overall passing percentages for Thomas High School decreased by 0.11%
+- The average scores of Thomas High School for math and reading increased by 0.06
+- The overall passing percentage decreased by 0.1% for the spending per students in the range of $630-644 
+- Thomas high school remains in the top five of all Charter Schools. 
 
 
 
 Math and reading scores by grade
-with Thomas High School's math scores removed from the 9th grade and all other scores remained the same.
+
+With Thomas High School's math scores removed from the 9th grade, all other scores remained the same.
 
 
 Scores by school spending
