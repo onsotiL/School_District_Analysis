@@ -50,17 +50,22 @@ When the ninth graders scores for Thomas High School were replaced, it resulted 
 
 
 
-Math and reading scores by grade
+### Math scores by grade
+![image](https://user-images.githubusercontent.com/90416094/140576459-85cd612b-7d7f-4f03-ba1b-4aeeddedd24b.png)
 
-With Thomas High School's math scores removed from the 9th grade, all other scores remained the same.
 
+![image](https://user-images.githubusercontent.com/90416094/140576563-775fd27b-9553-4e48-bb81-4323c2cf4e94.png)
 
-Scores by school spending
+### Reading Scores by grade
+
+## Scores by school spending
+
 With the removal of the 9th grade scores, the overall passing percentage decreased from 62.9% to 56.4%.
 ![image](https://user-images.githubusercontent.com/90416094/140559997-18c1f861-e63d-47f3-93d3-e709957f23b1.png)
 
 
-Scores by school size
+## Scores by school size
+
 Based on the school size, since thomas High School is a medium sizesd school with 1635 students there was no difference on the average math and reading scores. However, there was almost a  6% drop in the percentage for the math, reading and overall as compared to the previous dataframe for medium of 1000 to 2000 students
 
 
@@ -72,8 +77,9 @@ Scores by school type
 ![image](https://user-images.githubusercontent.com/90416094/140560124-fac20b53-3f89-4d0a-9890-95f2a4abe06c.png)
 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-- The removal of Thomas High ninth grade data in math and reading did not have a major overall impact on the school district’s performance.
+## Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- The removal of Thomas High ninth grade data in math and reading did not have a major overall impact on the school district’s performance. The overall percentage of students who passed math and  dropped by one-tenth of a percentage.
 - When reviewing the School Size summary, removing the ninth grade scores did not aff
 
 
