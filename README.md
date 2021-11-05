@@ -52,15 +52,17 @@ When the ninth graders scores for Thomas High School were replaced, it resulted 
 
 Math and reading scores by grade
 
-With Thomas High School's math scores removed from the 9th grade, all other scores remained the same.
 
 
-Scores by school spending
+
+## Scores by school spending
+
 With the removal of the 9th grade scores, the overall passing percentage decreased from 62.9% to 56.4%.
 ![image](https://user-images.githubusercontent.com/90416094/140559997-18c1f861-e63d-47f3-93d3-e709957f23b1.png)
 
 
-Scores by school size
+## Scores by school size
+
 Based on the school size, since thomas High School is a medium sizesd school with 1635 students there was no difference on the average math and reading scores. However, there was almost a  6% drop in the percentage for the math, reading and overall as compared to the previous dataframe for medium of 1000 to 2000 students
 
 
