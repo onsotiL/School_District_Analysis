@@ -35,13 +35,13 @@ As a result of taking out Thomas High School math and reading scores, the distri
 
 ![image](https://user-images.githubusercontent.com/90416094/140559424-4df09517-31bf-4627-8dee-8b1e95c68185.png)
 
-Replacing the ninth graders' math and reading scores with non-values affected Thomas High School and the school district in the following ways:
+#### Replacing the ninth graders' math and reading scores with non-values affected Thomas High School and the school district in the following ways:
 
 - The overall passing percentage for the entire district fell to 64.9%
 - Percent Passing Math moved decreased from 75% to 74%.
 
 
-When the ninth graders scores for Thomas High School were replaced, it resulted in the following:
+#### When the ninth graders scores for Thomas High School were replaced, it resulted in the following:
 
 - Overall passing percentages for Thomas High School decreased by 0.11%
 - The average scores of Thomas High School for math and reading increased by 0.06
@@ -63,7 +63,7 @@ When the ninth graders scores for Thomas High School were replaced, it resulted 
 
 ![image](https://user-images.githubusercontent.com/90416094/140579586-a5b29c02-7f38-45ab-b803-912d3554c52d.png)
 
-Based on the school size, since Thomas High School is a medium sizesd school with 1635 students, there was no much difference on the average math and reading scores. However, there was almost a 6% drop in the percentage for math and reading overall as compared to the previous dataframe for medium school of 1000 to 2000 students.
+Based on the school size, since Thomas High School is a medium sizesd school with 1635 students, there was no much difference on the average math and reading scores. However, there was  a drop in the percentage for math and reading overall as compared to the previous dataframe for medium school of 1000 to 2000 students.
 
 ## Scores by school type
 ![image](https://user-images.githubusercontent.com/90416094/140560124-fac20b53-3f89-4d0a-9890-95f2a4abe06c.png)
