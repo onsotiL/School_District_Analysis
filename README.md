@@ -70,8 +70,8 @@ Based on the school size, since Thomas High School is a medium sizesd school wit
 
 ## Summary
 
-- The removal of Thomas High ninth grade data in math and reading did not have a major overall impact on the school district’s performance. However, The overall percentage of     students who passed math and  dropped by one-tenth of a percentage.
-- The average overall math, reading at Thomas High School were impacted with the new analysis, However, the changes were not significant enough to alter i'ts ranking. The         changes had a minimum impact.
+- The removal of Thomas High ninth grade data in math and reading did not have a major overall impact on the school district’s performance.   However, The overall percentage of     students who passed math and  dropped 
+    - The average overall math, reading at Thomas High School were impacted with the new analysis, However, the changes were not significant    enough to alter i'ts ranking. The         changes had a minimum impact.
 
 
 
