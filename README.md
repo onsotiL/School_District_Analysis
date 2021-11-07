@@ -1,8 +1,13 @@
 # School_District_Analysis
 
-  1. Resources: CSV files found inside of the Resources folder.
+  1. Resources
+  
+   - CSV files found inside of the Resources folder.
 
-  2. Software: Python, Anaconda, Jupyter Notebook
+  2. Software
+   - Python
+   - Anaconda
+   - Jupyter Notebook
 
 
 ## Overview of the school district analysis: 
