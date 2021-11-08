@@ -49,7 +49,6 @@ As a result of taking out Thomas High School math and reading scores, the distri
 #### When the ninth graders scores for Thomas High School were replaced, it resulted in the following:
 
 - Overall passing percentages for Thomas High School decreased 
-- The average scores of Thomas High School for math and reading increased by 
 - The overall passing percentage decreased by 0.1% for the spending per students in the range of $630-644 
 - Thomas high school remains in the top five of all Charter Schools. 
 
